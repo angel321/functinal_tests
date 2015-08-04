@@ -1,0 +1,12 @@
+General Usage Notes
+-------------------
+The code and the libraries used for the code are platform agnostic so that it can be run
+across all the platforms. The code has written for chrome browser, but if any one wants to run it on firefox
+or any other browser, that can be accessed through selenium classes and libraries
+
+Instructions to Run The Program
+-------------------------------
+1. pip install python
+2. pip install selenium
+4. go to the path directory where the program is stored from your terminal
+5. type-  python imdb_movie_result.py
